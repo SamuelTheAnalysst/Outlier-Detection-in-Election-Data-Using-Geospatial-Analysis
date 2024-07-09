@@ -63,3 +63,11 @@ This analysis provided insights into potential voting irregularities, warranting
 - Investigate the identified outliers.
 - Implement measures to ensure data integrity in future elections.
 - Use advanced statistical techniques for more comprehensive outlier detection.
+
+
+Data Sources
+◾ IINEC Election Data
+
+Acknowledgments
+◾ HNG Internship
+◾ All contributors and reviewers.
