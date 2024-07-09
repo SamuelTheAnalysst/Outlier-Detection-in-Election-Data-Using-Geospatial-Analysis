@@ -65,9 +65,9 @@ This analysis provided insights into potential voting irregularities, warranting
 - Use advanced statistical techniques for more comprehensive outlier detection.
 
 
-Data Sources
-◾ IINEC Election Data
+### Data Sources
+◾ IINEC Election Data (https://inecnigeria.org/election-data)
 
-Acknowledgments
-◾ HNG Internship
+### Acknowledgments
+◾ HNG Internship (https://hng.tech/internship)
 ◾ All contributors and reviewers.
